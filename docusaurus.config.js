@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentazione Sabaoth Church Catania',
+  title: 'Docs Sabaoth Church Catania',
   tagline: 'Sito pensato e dedicato alla formazione e al supporto dei collaboratori Sabaoth',
   favicon: 'img/favicon.ico',
 
@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: 'YouTube',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.youtube.com/@sabaothchurchcatania6496',
               },
             ],
           },
