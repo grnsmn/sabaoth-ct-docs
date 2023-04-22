@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docs SabaothCT',
-  tagline: 'Dinosaurs are cool',
+  title: 'Documentazione Sabaoth Church Catania',
+  tagline: 'Sito pensato e dedicato alla formazione e al supporto dei collaboratori Sabaoth',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
