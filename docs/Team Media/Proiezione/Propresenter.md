@@ -1,4 +1,5 @@
-# Propresenter: un software per presentazioni multimediali
+# Propresenter
+## Software per presentazioni multimediali
 
 Propresenter è un software per la creazione e la gestione di presentazioni multimediali, utilizzato soprattutto in contesti religiosi e di intrattenimento. Con Propresenter è possibile visualizzare testi, immagini, video, presentazioni Keynote e molto altro ancora.
 
