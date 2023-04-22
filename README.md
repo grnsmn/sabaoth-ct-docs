@@ -24,4 +24,4 @@ La documentazione della Sabaoth Church Catania è rilasciata sotto la licenza [M
 
 ## Contatti
 
-Per ulteriori informazioni o suggerimenti sulla documentazione della Sabaoth Church Catania, si prega di contattare [il team di sviluppo](mailto:team@sabaothchurchcatania.com).
+Per ulteriori informazioni o suggerimenti sulla documentazione della Sabaoth Church Catania, si prega di contattare [il team di sviluppo](mailto:simoneguarnuccio@gmail.com).
