@@ -5,6 +5,7 @@
 # Production
 /build
 /docs/.obsidian
+/.obsidian
 
 # Generated files
 .docusaurus
