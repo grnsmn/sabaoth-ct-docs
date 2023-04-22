@@ -1,41 +1,27 @@
-# Website
+# Documentazione della Sabaoth Church Catania
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Benvenuti alla documentazione della Sabaoth Church Catania! Questo repository contiene il codice sorgente del sito web del progetto di documentazione, creato con Docusaurus.
 
-### Installation
+## Come contribuire
 
-```
-$ yarn
-```
+Siamo lieti di accettare contributi alla documentazione da parte della comunità della Sabaoth Church Catania. Per contribuire, è necessario seguire questi semplici passaggi:
 
-### Local Development
+1.  **Forka** il repository e clona il tuo fork in locale
+2.  Installa le dipendenze del progetto con il comando `yarn install`
+3.  **Crea un branch** per il tuo lavoro (`git checkout -b mio-nuovo-argomento`)
+4.  **Apporta le modifiche** al codice o alla documentazione
+5.  **Esegui i test** per assicurarti che le modifiche non abbiano rotto nulla (`yarn test`)
+6.  **Esegui lo script di linting** per assicurarti che il tuo codice sia formattato correttamente (`yarn lint`)
+7.  **Fai il commit** delle tue modifiche con un messaggio descrittivo (`git commit -am 'Aggiunto nuovo argomento'`)
+8.  **Pusha** il tuo branch sul tuo fork (`git push origin mio-nuovo-argomento`)
+9.  **Invia una Pull Request** (PR) al repository originale, specificando le modifiche apportate e gli eventuali riferimenti ai problemi corrispondenti
 
-```
-$ yarn start
-```
+Si prega di fare riferimento alle linee guida di contribuzione nel file [CONTRIBUTING.md](https://chat.openai.com/c/CONTRIBUTING.md) per ulteriori informazioni su come contribuire al progetto.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Licenza
 
-### Build
+La documentazione della Sabaoth Church Catania è rilasciata sotto la licenza [MIT](https://chat.openai.com/c/LICENSE). Per ulteriori informazioni, si prega di fare riferimento al file di licenza incluso nel repository.
 
-```
-$ yarn build
-```
+## Contatti
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Per ulteriori informazioni o suggerimenti sulla documentazione della Sabaoth Church Catania, si prega di contattare [il team di sviluppo](mailto:team@sabaothchurchcatania.com).
