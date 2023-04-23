@@ -62,12 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/sabaoth.png',
       navbar: {
-        title: 'Sabaoth Catania Docs',
+        title: ' Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Sabaoth Church',
+          src: 'img/logo.png',
         },
         items: [
           {
