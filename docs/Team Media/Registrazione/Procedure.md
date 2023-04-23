@@ -45,3 +45,14 @@ Prima di iniziare la registrazione del sermone, è importante verificare che OBS
 -   Verificare che le impostazioni audio e video siano impostate correttamente in base alle esigenze specifiche della registrazione del sermone. Ad esempio, è possibile regolare il volume dell'audio o la risoluzione del video per adattarsi alle esigenze del progetto.
 
 Una volta verificato che le impostazioni audio e video siano impostate correttamente, è possibile procedere con l'avvio della registrazione del sermone.
+
+---
+
+## 3.  Verificare collegamento webcam
+Se la webcam non viene rilevata, verificare che sia correttamente collegata e installata sul computer.
+
+-   Controlla che la webcam Logitech C920 Pro sia correttamente collegata al computer tramite una porta USB. Se necessario, prova a collegarla a una porta USB diversa per verificare se questo risolve il problema.
+-   Assicurati che la webcam sia accesa e funzionante. Verifica che la luce di accensione sulla webcam sia accesa e che non ci siano problemi con il cavo di alimentazione.
+-   Apri OBS e vai nella scheda "Sorgenti". Dovresti vedere la webcam Logitech C920 Pro elencata tra le sorgenti disponibili. Se non la vedi, fai clic sul pulsante "+" nella sezione "Sorgenti" e seleziona "Dispositivo video di acquisizione".
+-   Seleziona la webcam Logitech C920 Pro dal menu a discesa e fai clic su "OK". Ora dovresti vedere la tua webcam nella finestra di anteprima di OBS. Se necessario, regola le impostazioni della webcam come ad esempio la risoluzione, il frame rate e la correzione automatica dell'illuminazione.
+-   Verifica che la webcam stia acquisendo il video correttamente, facendo clic su "Anteprima studio" nella finestra principale di OBS. Verifica che il video sia chiaro e nitido e che non ci siano problemi di connessione o di qualità dell'immagine.
