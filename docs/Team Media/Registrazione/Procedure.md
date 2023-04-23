@@ -56,3 +56,23 @@ Se la webcam non viene rilevata, verificare che sia correttamente collegata e in
 -   Apri OBS e vai nella scheda "Sorgenti". Dovresti vedere la webcam Logitech C920 Pro elencata tra le sorgenti disponibili. Se non la vedi, fai clic sul pulsante "+" nella sezione "Sorgenti" e seleziona "Dispositivo video di acquisizione".
 -   Seleziona la webcam Logitech C920 Pro dal menu a discesa e fai clic su "OK". Ora dovresti vedere la tua webcam nella finestra di anteprima di OBS. Se necessario, regola le impostazioni della webcam come ad esempio la risoluzione, il frame rate e la correzione automatica dell'illuminazione.
 -   Verifica che la webcam stia acquisendo il video correttamente, facendo clic su "Anteprima studio" nella finestra principale di OBS. Verifica che il video sia chiaro e nitido e che non ci siano problemi di connessione o di qualità dell'immagine.
+
+---
+
+## 4. Verificare collegamento Scheda audio
+
+Se la Focusrite non viene rilevata, sarà necessario verificare che sia correttamente collegata e installata sul computer.
+
+Ecco i passaggi da seguire per verificare la corretta connessione della Focusrite al computer:
+
+1.  Accendi la Focusrite e collegala al computer tramite il cavo USB fornito.
+2.  Assicurati che il driver della Focusrite sia stato installato correttamente sul computer. Se non sei sicuro se il driver è installato o se hai bisogno di un aggiornamento, visita il sito web del produttore della Focusrite e scarica l'ultima versione del driver per il tuo modello di Focusrite.
+3.  Apri OBS e seleziona "Impostazioni" dal menu "File" nella parte superiore della finestra.
+4.  Seleziona l'opzione "Audio" sulla sinistra e verifica che la Focusrite sia elencata come dispositivo audio nelle sezioni "Dispositivo di input" e "Dispositivo di output". Se la Focusrite non viene elencata, seleziona il menu a discesa corrispondente e scegli la Focusrite dall'elenco dei dispositivi disponibili.
+5.  Verifica che il livello di input della Focusrite sia impostato correttamente. Per fare ciò, seleziona l'opzione "Mixer" sulla sinistra della finestra delle impostazioni e verifica che la Focusrite sia elencata nel mixer audio. Regola il livello di input della Focusrite in modo che il segnale audio sia forte ma non distorte.
+
+Seguendo questi passaggi, dovresti essere in grado di verificare la connessione della Focusrite al computer e garantire che sia rilevata correttamente da OBS per la registrazione del sermone.
+
+---
+
+##
