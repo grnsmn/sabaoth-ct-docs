@@ -1,6 +1,7 @@
 # 1 - Intro
 
-### Nel seguente video viene data una breve introduzione e prime indicazioni da seguire per lavorare il video del Gospel time registrato. 
+### Introduzione generale 
+Nel seguente video viene data una breve introduzione e prime indicazioni da seguire per lavorare il video del Gospel time registrato. 
 
 ---
 import ReactPlayer from 'react-player'
