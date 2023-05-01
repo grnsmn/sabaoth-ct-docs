@@ -15,7 +15,7 @@ import ReactPlayer from 'react-player'
 :::info
 I file video **Intro** e **Outro** aggiornati sono scaricabili ai seguenti link:
 
-- [Clicca Qui](https://drive.google.com/file/d/1arpEOa-N6d277Yka9hJKVHOb0xtWuUOI/view?usp=sharing) Per il Video Intro
-- [Clicca Qui](https://drive.google.com/file/d/14UmMyubqJeQa5elu-QJl5iE81fpFHYjZ/view?usp=sharing) Per il Video Outro 
+- [Download](https://drive.google.com/file/d/1arpEOa-N6d277Yka9hJKVHOb0xtWuUOI/view?usp=sharing)  Video Intro
+- [Download](https://drive.google.com/file/d/14UmMyubqJeQa5elu-QJl5iE81fpFHYjZ/view?usp=sharing)  Video Outro 
 :::
 
