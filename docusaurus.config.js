@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'sabaothct-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,10 +64,13 @@ const config = {
       // Replace with your project's social card
       image: 'img/sabaoth.png',
       navbar: {
-        title: ' Docs',
+        title: ' Documentazione',
         logo: {
           alt: 'Sabaoth Church',
-          src: 'img/logo.png',
+          src: 'img/logoBK.svg',
+          srcDark: 'img/logo-bianco.png',
+          height: 100,
+          width: 45
         },
         items: [
           {
