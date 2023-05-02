@@ -14,6 +14,20 @@ import ReactPlayer from 'react-player'
 
 ---
 
+## Formato Titolo e Descrizione Youtube
+Il formato del titolo e la relativa descrizione da utilizzare durante l'upload su youtube sono i seguenti:
+
+### Titolo:
+
+    Domenica Gospel @ Catania | Titolo | Past. Nome Cognome | GG.MM.ANNO
+
+### Descrizione:
+
+    Seguici su:
+    Facebook: https://www.facebook.com/sabaothcatania
+    Instagram: https://www.instagram.com/sabaothcatania
+
+
 :::info
 Il file  PSD aggiornato è scaricabile al seguente link:
 
