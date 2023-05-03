@@ -1,4 +1,10 @@
-# Propresenter
+---
+sidebar_position: 1
+sidebar_label: Intro
+---
+
+# Intro
+
 ## Software per presentazioni multimediali
 
 Propresenter è un software per la creazione e la gestione di presentazioni multimediali, utilizzato soprattutto in contesti religiosi e di intrattenimento. Con Propresenter è possibile visualizzare testi, immagini, video, presentazioni Keynote e molto altro ancora.
@@ -12,3 +18,8 @@ Il software è stato sviluppato da Renewed Vision e offre una vasta gamma di fun
 -   la sincronizzazione con software di terze parti come Ableton Live per la gestione della musica e dei suoni.
 
 Propresenter è disponibile per Mac e Windows e utilizza un'interfaccia semplice e user-friendly, rendendolo uno strumento utile per chiunque voglia creare presentazioni di alta qualità senza dover avere conoscenze tecniche approfondite.
+
+
+:::info
+Per qulasiasi volontario approfondimento su propresenter da parte del collaboratore la versione acquistata ed utilizzada del software è la versione 6. 
+:::
