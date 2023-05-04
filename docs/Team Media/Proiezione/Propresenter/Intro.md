@@ -21,5 +21,5 @@ Propresenter è disponibile per Mac e Windows e utilizza un'interfaccia semplice
 
 
 :::info
-Per qulasiasi volontario approfondimento su propresenter da parte del collaboratore la versione acquistata ed utilizzada del software è la versione 6. 
+Per qulasiasi volontario approfondimento da parte del collaboratore la versione completa acquistata del software ed utilizzata dal pc è la versione 6. 
 :::
