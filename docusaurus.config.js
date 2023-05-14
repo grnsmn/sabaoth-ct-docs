@@ -76,8 +76,26 @@ const config = {
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'right',
+            position: 'left',
+            label: 'Intro Generale',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'TeamMedia',
+            position: 'left',
             label: 'Team Media',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'Production',
+            position: 'left',
+            label: 'Production',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'Predicatori',
+            position: 'left',
+            label: 'Predicatori',
           },
           {
             href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
