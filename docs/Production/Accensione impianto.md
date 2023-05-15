@@ -27,11 +27,14 @@ Seguire attentamente la seguente procedura cronologica per accendere correttamen
 
 10. Verifica della connessione: Una volta connesso correttamente, verificare che l'app MixRemote mostri le informazioni e i controlli del Mixer corrispondenti.
 
-L'impianto audio è ora acceso e pronto per l'utilizzo durante le esibizioni. Assicurarsi che l'app MixRemote sia funzionante e connessa per poter controllare e regolare le impostazioni del mixer in modo conveniente.
+Acceso l'impianto bisognerà adesso pensare ad accendere, collegare e gestire tutta la strumentazione necessaria allo svolgimento del gospel. Tra la principale strumentazione da rendere funzionale a questo punto ci saranno prevalentemente i **microfoni wireless** presenti nella [prossima](./Microfoni.md) sezione. 
 
+:::tip
+L'impianto audio è ora acceso e pronto per l'utilizzo durante le esibizioni. Assicurarsi che l'app MixRemote sia funzionante e connessa per poter controllare e regolare le impostazioni del mixer in modo conveniente.
+:::
+
+:::note
 Ricordarsi di seguire la procedura di spegnimento dell'impianto in ordine inverso quando si desidera spegnerlo.
+:::
 
 Si consiglia di ripetere queste procedure di accensione e spegnimento in modo coerente per mantenere l'impianto audio in buone condizioni e garantire un utilizzo corretto e sicuro.
-
-
-
