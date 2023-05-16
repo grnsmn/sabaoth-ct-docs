@@ -5,7 +5,11 @@ sidebar_position: 2
 # Accensione dell'Impianto
 ## Procedura per l'Accensione dell'Impianto
 
-Seguire attentamente la seguente procedura cronologica per accendere correttamente l'impianto audio:
+:::caution
+### Assicurarsi innanzitutto di aver abilitato da quadro elettrico ogni linea elettrica di alimentazione per il palco.
+Successivamente accendere la ciabatta posizionata accanto al mixer a cui si trovano connessi i principali alimentatori per poter regolarmente accendere l'impianto seguendo le procedure di seguito indicate.
+:::
+**Seguire attentamente la seguente procedura cronologica per accendere correttamente l'impianto audio:**
 
 1. Accendere il Preamp: Premere il pulsante di accensione e dopodichè posizionare entrambi i volumi del Preamp a 6 per impostare un livello di volume di base.
 
@@ -33,7 +37,7 @@ Acceso l'impianto bisognerà adesso pensare ad accendere, collegare e gestire tu
 L'impianto audio è ora acceso e pronto per l'utilizzo durante le esibizioni. Assicurarsi che l'app MixRemote sia funzionante e connessa per poter controllare e regolare le impostazioni del mixer in modo conveniente.
 :::
 
-:::note
+:::caution
 Ricordarsi di seguire la procedura di spegnimento dell'impianto in ordine inverso quando si desidera spegnerlo.
 :::
 
