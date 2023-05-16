@@ -5,11 +5,12 @@ sidebar_position: 2
 # Accensione dell'Impianto
 ## Procedura per l'Accensione dell'Impianto
 
+Assicurarsi innanzitutto di aver abilitato da quadro elettrico ogni linea elettrica d 'alimentazione. Poi accendere la ciabatta posizionata accanto al mixer a cui è connessa l'alimentazione di base per poter accendere l'impianto.
 Seguire attentamente la seguente procedura cronologica per accendere correttamente l'impianto audio:
 
 1. Accendere il Preamp: Premere il pulsante di accensione e dopodichè posizionare entrambi i volumi del Preamp a 6 per impostare un livello di volume di base.
 
-2. Accendere il Mixer: Premere il pulsante di accensione del Mixer per avviarlo. Assicurarsi che tutte le manopole di controllo del volume siano impostate sul valore di partenza, generalmente indicato come "0" o al centro della scala.
+2. Accendere il Mixer: Premere il pulsante di accensione del Mixer per avviarlo. Il mixer utilizzato è un modello RCF digitale a comando remoto tramite app MixRemote.
 
 3. Accendere il Sub Woofer: Premere il pulsante di accensione del Sub Woofer per avviarlo. Controllare il livello del volume del Sub Woofer e regolarlo secondo le esigenze specifiche dell'ambiente e della performance.
 
