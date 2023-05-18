@@ -19,12 +19,14 @@ Quelli disponibili e connessi al mixer sono 3 ed elencati qui di seguito con rel
 
 Ricetrasmettitore relativo al microfono che come vedrete nella [scena iniziale](./Primi%20Test.md) è denominato **Singer Wireless** ma che più in generale viene sempre usato come microfono per uso generico.
 
+---
 ### Microfono Shure
 
 ![Past Shure](../../static/img/Production/Shure%20Past.jpg)
 
 Ricetrasmettitore relativo al microfono personale del pastore Sergio che viene prevalentemente usato da lui in circostanze di interventi generali.
 
+---
 ### Microfono Archetto
 
 ![Archetto Past](../../static/img/Production/Karma.jpg)
