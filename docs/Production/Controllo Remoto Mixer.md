@@ -14,7 +14,7 @@ Come precedentemente detto questa è l'applicativo usato per il controllo remoto
 
 1. **Download MixRemote**: 
    - Per dispositivi Android: Scarica l'app MixRemote dal [Google Play Store](https://play.google.com/store/apps/details?id=com.rcf.mixremote&hl=it&gl=US).
-   - Per dispositivi iOS: Scarica l'app MixRemote dall'[App Store](https://apps.apple.com/us/app/mixremote/id1077491954).
+   - Per dispositivi iOS: Scarica l'app MixRemote dall'[App Store](https://apps.apple.com/it/app/mixremote/id1053268034).
 
 2. **Avvia MixRemote**: 
    - Una volta completato il download, individua l'icona dell'app MixRemote sul tuo dispositivo e avviala.
@@ -43,4 +43,6 @@ Come precedentemente detto questa è l'applicativo usato per il controllo remoto
    - MixRemote cercherà di stabilire una connessione al tuo mixer digitale.
    - Una volta stabilita la connessione, sarai pronto per iniziare a controllare il tuo mixer tramite l'app MixRemote.
 
+:::tip
 Ora sei pronto per utilizzare MixRemote per il controllo remoto del tuo mixer digitale RCF. Assicurati di consultare il manuale del mixer e la documentazione dell'app MixRemote per sfruttarne al meglio tutte le funzionalità.
+:::
