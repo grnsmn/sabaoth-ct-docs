@@ -161,14 +161,14 @@ const config = {
             ],
           },
           {
-            title: 'Vuoi Contribuire',
+            title: 'Vuoi Contribuire ?',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
               },
               {
-                label: 'Donazione Paypal',
+                label: 'Dona con Paypal',
                 href: 'https://paypal.me/SabaothCatania',
               },
             ],
