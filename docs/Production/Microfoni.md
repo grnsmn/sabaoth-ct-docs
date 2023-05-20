@@ -17,7 +17,7 @@ Quelli disponibili e connessi al mixer sono 3 ed elencati qui di seguito con rel
 
 ![Samson](../../static/img/Production/Samson%20annunci.jpg)
 
-Ricetrasmettitore relativo al microfono che come vedrete nella sezione dedicata alla scena principale è denominato **Singer Wireless** ma che più in generale viene sempre usato come microfono per uso generico.
+Ricetrasmettitore relativo al microfono che come vedrete nella sezione dedicata alla [scena principale](./Scena%20Principale.md) è denominato **Singer Wireless** ma che più in generale viene sempre usato come microfono per uso generico.
 
 ---
 ### Microfono Shure
