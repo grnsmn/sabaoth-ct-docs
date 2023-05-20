@@ -1,0 +1,1 @@
+In questa sezione verranno illustrati i software utilizzati durante il gospel per la gestione della presentazione di testi e slide.
