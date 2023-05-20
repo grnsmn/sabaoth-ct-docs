@@ -16,8 +16,12 @@ Le scene possono subire delle variazioni dettate dalle esigenze che possono sorg
 Come mostrato dai seguenti screenshot, questa è la schermata sulla quale si arriva una volta connesso il proprio dispositivo (Tablet o Smarthphone) al mixer.
 
 ![Canali 1-8](../../static/img/Production/Canali%201-8.jpg)
+Canali da 1 a 8
+<bp/>
 ---
 
 ---
 ![Canali 9-18](../../static/img/Production/Canali%209....jpg)
+Canali da 9 a 18
+<bp/>
 ---

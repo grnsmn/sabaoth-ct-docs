@@ -1,9 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
-## Introduzione al progetto di documentazione del Team Media
-
 ### Benvenuti al progetto di documentazione del Team Media! 
 
 Questo progetto è stato creato per fornire una documentazione dettagliata sui metodi e gli strumenti utilizzati dai collaboratori volontari della chiesa in questa area di servizio. 

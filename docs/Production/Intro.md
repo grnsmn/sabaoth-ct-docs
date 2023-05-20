@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Gestione Fonia in Sala
+# Gestione Fonia
 
 Benvenuti nella sezione dedicata alla gestione della fonia in sala per supportare i musicisti. Qui troverete informazioni sulla strumentazione fisica e il software utilizzati per garantire un audio di qualità durante le esibizioni.
 

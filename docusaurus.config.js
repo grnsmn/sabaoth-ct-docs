@@ -18,12 +18,12 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'Sabaoth Catania', // Usually your GitHub org/user name.
   projectName: 'sabaothct-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
+  deploymentBranch: 'dev',
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -44,13 +44,13 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        // blog: {
+        //   showReadingTime: false,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -77,7 +77,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Intro Generale',
+            label: 'Introduzione',
           },
           {
             type: 'docSidebar',
@@ -98,10 +98,16 @@ const config = {
             label: 'Predicatori',
           },
           {
-            href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
-            label: 'GitHub',
+            type: 'docSidebar',
+            sidebarId: 'Utilità',
             position: 'right',
+            label: 'Utilità',
           },
+          // {
+          //   href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -111,8 +117,24 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Calendario Turni',
+                to: '/docs/Team%20Media/Calendario%20Turni',
+              },
+              {
+                label: 'Utilità',
+                to: '/docs/Team Media/Utilità/Maiuscole accentate',
+              },
+              {
+                label: 'Proiezioni',
+                to: '/docs/Team%20Media/Proiezione/Intro',
+              },
+              {
+                label: 'Post Production',
+                to: '/docs/Team%20Media/PostProduzione/Intro',
+              },
+              {
+                label: 'Accensione Impianto',
+                to: '/docs/Production/Accensione impianto',
               },
             ],
           },
@@ -120,22 +142,39 @@ const config = {
             title: 'Social',
             items: [
               {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/sabaothcatania',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://www.facebook.com/sabaothcatania',
+              },
+              {
                 label: 'YouTube',
                 href: 'https://www.youtube.com/@sabaothchurchcatania6496',
               },
+              {
+                label: 'Spotify',
+                href: 'https://open.spotify.com/show/1nH7YyL2mE2uDOnWtJ8zQJ?si=i9OnLkSZSOaJrI9f2x56Bg&nd=1',
+              },
+
             ],
           },
           {
-            title: 'More',
+            title: 'Vuoi Contribuire ?',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
               },
+              {
+                label: 'Dona con Paypal',
+                href: 'https://paypal.me/SabaothCatania',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Sabaoth Catania Docs, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Sabaoth Catania Docs`,
       },
       prism: {
         theme: lightCodeTheme,

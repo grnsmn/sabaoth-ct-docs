@@ -1,9 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
-## Benvenuti 
-
+# Benvenuti 
 ### Introduzione al progetto di documentazione della Sabaoth Church Catania
 
 Benvenuti al progetto di documentazione della Sabaoth Church Catania! Questo progetto è stato creato per fornire una documentazione dettagliata sui metodi e gli strumenti utilizzati dai collaboratori volontari della chiesa. L'obiettivo principale di questo progetto è quello di facilitare la condivisione di conoscenze e informazioni tra i membri della comunità, migliorando la comunicazione e la collaborazione tra di loro.
