@@ -1,9 +1,10 @@
 # Spegnimento dell'Impianto
 ## Procedura per lo Spegnimento dell'Impianto
 
-Seguire attentamente la seguente procedura cronologica per spegnere correttamente l'impianto audio:
-
-1. Spegnere i Monitor: Per ciascun monitor, premere il pulsante di spegnimento.
+:::caution
+**Seguire attentamente la seguente procedura cronologica per spegnere correttamente l'impianto audio:**
+:::
+1. Spegnere i Monitor: Per ciascun monitor, abbassare il controllo del volume o premere il pulsante di spegnimento.
 
 2. Spegnere il Sub Woofer: Premere il pulsante di spegnimento del Sub Woofer.
 
@@ -11,4 +12,7 @@ Seguire attentamente la seguente procedura cronologica per spegnere correttament
 
 4. Spegnere il Preamp: Posizionare entrambi i volumi del Preamp su "0" per poi spegnerlo completamente dal suo pulsante di spegnimento.
 
-Assicurarsi di seguire questa sequenza inversa per lo spegnimento dell'impianto per evitare danni all'apparecchiatura e garantire una corretta procedura di spegnimento.
+
+:::danger
+Eseguita questa procedura sarà possibile chiudere (chiedere a chi di responsabilità) dal quadro eletrrico tutti i circuiti interessati alla linea elettrica di alimentazione della strumentazione e le linee delle luci dòl palco
+:::
