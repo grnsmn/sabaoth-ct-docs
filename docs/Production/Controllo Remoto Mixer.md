@@ -9,9 +9,13 @@ sidebar_position: 4
 </p>
 
 
-Come precedentemente detto questa è l'applicativo usato per il controllo remoto del mixer posto in sala.
+<p align="center">
+MixRemote è l'applicativo usato per il controllo remoto del mixer posto in sala per la gestione effettiva dei volumi in sala e per registrazione dalla regia.
+</p>
 
+<br/><br/>
 
+## Download e primo avvio
 1. **Download MixRemote**: 
    - Per dispositivi Android: Scarica l'app MixRemote dal [Google Play Store](https://play.google.com/store/apps/details?id=com.rcf.mixremote&hl=it&gl=US).
    - Per dispositivi iOS: Scarica l'app MixRemote dall'[App Store](https://apps.apple.com/it/app/mixremote/id1053268034).
