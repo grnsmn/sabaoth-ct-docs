@@ -77,7 +77,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Intro Generale',
+            label: 'Introduzione',
           },
           {
             type: 'docSidebar',
@@ -98,10 +98,16 @@ const config = {
             label: 'Predicatori',
           },
           {
-            href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
-            label: 'GitHub',
+            type: 'docSidebar',
+            sidebarId: 'Utilità',
             position: 'right',
+            label: 'Utilità',
           },
+          // {
+          //   href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
