@@ -9,7 +9,7 @@ const config = {
   title: 'Docs Sabaoth Church Catania',
   tagline: 'Sito pensato e dedicato alla formazione e al supporto dei collaboratori Sabaoth',
   favicon: 'img/favicon.ico',
-
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
   // Set the /<baseUrl>/ pathname under which your site is served
