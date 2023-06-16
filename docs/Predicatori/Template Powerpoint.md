@@ -1,3 +1,6 @@
+
+
+
 A [questo link](https://drive.google.com/file/d/1coMLmMIi9t6RotR_2Krzldk51dyDDHzn/view?usp=share_link) il file scaricabile per creare la presetazione da proiettare durante il Gospel.
 
 :::caution
@@ -5,7 +8,7 @@ Quando pronta la presentazione è importante procedere al salvataggio in formato
 :::
 
 :::info
-Le indicazioni principali da tenre in considerazione durante lo sviluppo della presentazione sono:
+Le indicazioni principali da tenere in considerazione durante lo sviluppo della presentazione sono:
 - Considerare sempre dimensioni dei caratteri abbastanza grandi.
 - Il file di presentazione va inviato alla mail mediasabaothcatania@gmail.com
 :::
