@@ -134,7 +134,7 @@ const config = {
               },
               {
                 label: "Predicatori",
-                to: "/docs/Predicatori/Indicazioni.md",
+                to: "/docs/Predicatori/Indicazioni",
               },
               {
                 label: "Proiezioni",
