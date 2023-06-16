@@ -133,6 +133,10 @@ const config = {
                 to: "/docs/Team Media/Utilità/Maiuscole accentate",
               },
               {
+                label: "Predicatori",
+                to: "/docs/Predicatori/Indicazioni.md",
+              },
+              {
                 label: "Proiezioni",
                 to: "/docs/Team%20Media/Proiezione/Intro",
               },
