@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Principali indicazioni
 
 Benvenuto nella documentazione del team media della chiesa! Questa guida è pensata per fornirti indicazioni su come preparare e presentare le tue presentazioni visive durante i tuoi messaggi. Seguendo questi consigli, potrai migliorare l'impatto della tua comunicazione e garantire un'esperienza coinvolgente per l'intera congregazione. 
