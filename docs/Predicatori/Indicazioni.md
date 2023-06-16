@@ -55,7 +55,7 @@ In conclusione, questa documentazione ha fornito una guida per i predicatori rig
 
 2. Utilizza il font GEOMETOS per mantenere uno stile uniforme nelle presentazioni. Segui le istruzioni per l'installazione del font sul tuo sistema operativo (Windows o macOS).
 
-3. Salva la presentazione nel formato PowerPoint (.pptx) e invia il file finale via email all'indirizzo mediasabaothcatania@gmail.com. Ricorda di inviare il file almeno 5 ore prima dell'orario del Gospel time e di utilizzare una sola email per il file definitivo.
+3. Salva la presentazione nel formato PowerPoint (.pptx) e invia il file finale via email all'indirizzo mediasabaothcatania@gmail.com. Ricorda di inviare il file almeno 3 ore prima dell'orario del Gospel time e di utilizzare una sola email per il file definitivo.
 
 Seguendo queste linee guida, contribuirai a garantire un'esperienza di proiezione fluida e professionale durante il tuo messaggio. Il team media sarà in grado di preparare adeguatamente la presentazione e fornire il supporto necessario per la proiezione.
 
