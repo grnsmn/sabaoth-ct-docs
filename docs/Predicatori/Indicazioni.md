@@ -5,6 +5,13 @@ sidebar_position: 1
 
 Benvenuto nella documentazione del team media della chiesa! Questa guida è pensata per fornirti indicazioni su come preparare e presentare le tue presentazioni visive durante i tuoi messaggi. Seguendo questi consigli, potrai migliorare l'impatto della tua comunicazione e garantire un'esperienza coinvolgente per l'intera congregazione. 
 
+
+:::note
+Se si necessita della proiezione di materiale video mandare **link youtube** di riferimento o usare il servizio [wetransfer](https://wetransfer.com/) per l'invio di file video pesanti alla mail mediasabaothcatania@gmail.com.
+Per tutti i video e/o immagini da mostrare si consiglia di scegliere preferibilmente il formato orizzontale in 16/9 e non verticale per una buona resa della proiezione.
+:::
+
+
 ## 1. Utilizzo del template di presentazione
 
 Per semplificare il processo di creazione delle presentazioni, mettiamo a disposizione un template predefinito che include una grafica accattivante e uno schema di colori coerente. Puoi scaricare il template dalla seguente posizione: [Template Presentazione](https://drive.google.com/file/d/1coMLmMIi9t6RotR_2Krzldk51dyDDHzn/view?usp=share_link)
@@ -55,7 +62,7 @@ In conclusione, questa documentazione ha fornito una guida per i predicatori rig
 
 2. Utilizza il font GEOMETOS per mantenere uno stile uniforme nelle presentazioni. Segui le istruzioni per l'installazione del font sul tuo sistema operativo (Windows o macOS).
 
-3. Salva la presentazione nel formato PowerPoint (.pptx) e invia il file finale via email all'indirizzo mediasabaothcatania@gmail.com. Ricorda di inviare il file almeno 5 ore prima dell'orario del Gospel time e di utilizzare una sola email per il file definitivo.
+3. Salva la presentazione nel formato PowerPoint (.pptx) e invia il file finale via email all'indirizzo mediasabaothcatania@gmail.com. Ricorda di inviare il file almeno 3 ore prima dell'orario del Gospel time e di utilizzare una sola email per il file definitivo.
 
 Seguendo queste linee guida, contribuirai a garantire un'esperienza di proiezione fluida e professionale durante il tuo messaggio. Il team media sarà in grado di preparare adeguatamente la presentazione e fornire il supporto necessario per la proiezione.
 
