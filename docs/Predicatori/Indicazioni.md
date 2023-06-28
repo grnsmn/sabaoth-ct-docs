@@ -5,6 +5,13 @@ sidebar_position: 1
 
 Benvenuto nella documentazione del team media della chiesa! Questa guida è pensata per fornirti indicazioni su come preparare e presentare le tue presentazioni visive durante i tuoi messaggi. Seguendo questi consigli, potrai migliorare l'impatto della tua comunicazione e garantire un'esperienza coinvolgente per l'intera congregazione. 
 
+
+:::note
+Se si necessita della proiezione di materiale video mandare **link youtube** di riferimento o usare il servizio [wetransfer](https://wetransfer.com/) per l'invio di file video pesanti alla mail mediasabaothcatania@gmail.com.
+Per tutti i video e/o immagini da mostrare si consiglia di scegliere preferibilmente il formato orizzontale in 16/9 e non verticale per una buona resa della proiezione.
+:::
+
+
 ## 1. Utilizzo del template di presentazione
 
 Per semplificare il processo di creazione delle presentazioni, mettiamo a disposizione un template predefinito che include una grafica accattivante e uno schema di colori coerente. Puoi scaricare il template dalla seguente posizione: [Template Presentazione](https://drive.google.com/file/d/1coMLmMIi9t6RotR_2Krzldk51dyDDHzn/view?usp=share_link)
