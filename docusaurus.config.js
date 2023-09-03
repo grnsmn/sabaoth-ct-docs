@@ -89,6 +89,12 @@ const config = {
           },
           {
             type: "docSidebar",
+            sidebarId: "Donazione",
+            position: "right",
+            label: "Io Dono",
+          },
+          {
+            type: "docSidebar",
             sidebarId: "TeamMedia",
             position: "left",
             label: "Team Media",
