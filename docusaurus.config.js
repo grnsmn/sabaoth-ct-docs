@@ -91,7 +91,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "Donazione",
             position: "right",
-            label: "Dona",
+            label: "Io Dono",
           },
           {
             type: "docSidebar",
