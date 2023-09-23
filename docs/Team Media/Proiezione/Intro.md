@@ -1,4 +1,4 @@
-# Preparazione della Presentazione
+# Preparazione alle proiezioni del Gospel
 
 Questa documentazione fornisce una guida dettagliata sulle attività da svolgere prima dell'inizio della presentazione del Gospel alla Sabaoth Church Catania. Seguendo questi passaggi, garantirete una presentazione impeccabile e senza intoppi.
 
