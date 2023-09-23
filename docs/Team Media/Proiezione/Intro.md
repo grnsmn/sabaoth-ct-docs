@@ -13,9 +13,9 @@ Solitamente, riceverete almeno due email cruciali: la scaletta inviata dal respo
 Inoltre, potrebbero esserci altre email relative agli annunci o al materiale da proiettare in modo eccezionale. Assicuratevi di esaminarle attentamente e preparatevi a scaricare tutto questo materiale.
 
 :::caution
-**Consiglio vivamente di rinominare in modo esplicativo i file da scaricare e di scegliere con cura il percorso esatto in cui salvarlo**
+**Consiglio vivamente di salvare con nome esplicativo i file che state scaricando e di scegliere con cura il percorso esatto in cui salvarlo**
 
-(**Non scarichiamo tutto direttamente sulla scrivania/Desktop**)
+(**Non scarichare tutto sulla scrivania/Desktop senza prima aver provato a capire quale possa essere la cartella ideale in cui salvare quanto si sta scaricando**)
 :::
 
 ## 3. Preparazione della Presentazione su ProPresenter
