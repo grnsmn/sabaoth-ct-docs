@@ -1,14 +1,16 @@
 # Introduzione al Mixer
 
-:::tip La Scena in MixRemote
-## La Scena in MixRemote
+### Cos'è una "Scena" in MixRemote
+
+:::tip
+### La Scena in MixRemote
 
 Il concetto di "scena" nell'app MixRemote si riferisce a una configurazione preimpostata dei controlli del mixer. Una scena rappresenta una specifica disposizione dei canali e delle impostazioni del mixer, che può essere salvata e richiamata in qualsiasi momento.
 
-Le scene sono utili perché consentono di passare rapidamente da una configurazione di mixaggio all'altra senza dover reimpostare manualmente i liv segelli e le opzioni per ciascun canale. Ad esempio, potresti avere una scena per il mixaggio di una band dal vivo, un'altra scena per un evento di parola, e così via.
+Le scene sono utili perché consentono di passare rapidamente da una configurazione di mixaggio all'altra senza dover reimpostare manualmente le opzioni per ciascun canale. Ad esempio, potresti avere una scena per il mixaggio di una band dal vivo, un'altra scena per un evento di parola, e così via.
 :::
 
-Le scene possono subire delle variazioni dettate dalle esigenze che possono sorgere natural durante il servizio, tuttavia è stata creata e salvata una scena base (qui di seguito illustrata). 
+Le scene possono subire delle variazioni dettate dalle esigenze che possono sorgere natural durante il servizio, tuttavia è stata creata e salvata una scena base predefinita (di [seguito](#scena-predefinita) documentata). 
 
 ### Interfaccia Mixer
 
@@ -45,5 +47,6 @@ Per caricare la scena in MixRemote bisognerà eseguire i seguenti passi sull'int
 2. Verrà visualizzata una schermata relativa alle scene disponibili (non Empty) ad essere selezionate
 3. Selezionata la scena bisognerà fare tap sul button "Load" e la scena sarà caricata e tornando sulla sezione "Faders" sarà possibile tornare a gestire il mixer della scena caricata
 
-### Scena predefinita gospel: 009- Ultimo
+### Scena predefinita {#scena-predefinita}
+#### Nome: 009- Ultimo
 La scena che ci si deve assicurare sia caricata prima di tutto è la scena dal nome **"009 - Ultimo"**
