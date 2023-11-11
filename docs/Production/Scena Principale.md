@@ -49,4 +49,5 @@ Per caricare la scena in MixRemote bisognerà eseguire i seguenti passi sull'int
 
 ### Scena predefinita {#scena-predefinita}
 #### Nome: 009- Ultimo
+
 La scena che ci si deve assicurare sia caricata prima di tutto è la scena dal nome **"009 - Ultimo"**
