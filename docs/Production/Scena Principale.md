@@ -44,8 +44,8 @@ Canali da 9 a 18
 Per caricare la scena in MixRemote bisognerà eseguire i seguenti passi sull'interfaccia:
 
 1. Fare tap sulla voce **"Load/Save"** che trovi tra i button posti in alto dell'interfaccia
-2. Verrà visualizzata una schermata relativa alle scene disponibili (non Empty) ad essere selezionate
-3. Selezionata la scena bisognerà fare tap sul button "Load" e la scena sarà caricata e tornando sulla sezione "Faders" sarà possibile tornare a gestire il mixer della scena caricata
+2. Verrà visualizzata una schermata relativa alle scene disponibili ad essere selezionate
+3. Selezionata la scena bisognerà fare tap sul button **"Load"** e la scena sarà caricata e tornando sulla sezione **"Faders"** sarà possibile tornare a gestire il mixer della scena caricata
 
 ### Scena predefinita {#scena-predefinita}
 #### Nome: 009- Ultimo
