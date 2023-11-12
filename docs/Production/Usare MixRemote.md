@@ -16,7 +16,7 @@ Le scene sono utili perché consentono di passare rapidamente da una configurazi
 
 Le scene possono subire delle variazioni dettate dalle esigenze che possono sorgere natural durante il servizio, tuttavia è stata creata e salvata una scena base predefinita (di [seguito](#scena-predefinita) documentata). 
 
-### Interfaccia Mixer {#interfaccia-mix-remote}
+### Interfaccia Mixer e primi utilizzi {#interfaccia-mix-remote}
 
 Come mostrato dai seguenti screenshot, questa è la schermata sulla quale si arriva una volta connesso il proprio dispositivo (Tablet o Smarthphone) al mixer.
 
@@ -56,7 +56,7 @@ Per caricare la scena in MixRemote bisognerà eseguire i seguenti passi sull'int
 La scena che ci si deve assicurare sia caricata prima di tutto è la scena dal nome **"009 - Ultimo"**
 
 
-### Equalizzazione
+### Equalizzazione Main Out
 
 Una delle potenzialità di ogni mixer è quella di avere integrati degli equalizzatori utili a gestire le frequenze per ogni canale in esso e inoltre anche del main out (fader all'estrema destra dell'interfaccia visualizzata [sopra](#interfaccia-mix-remote))
 
