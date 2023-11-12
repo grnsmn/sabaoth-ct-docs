@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ### Cos'è una "Scena" in MixRemote
 
-:::tip
+:::info concetto utile da comprendere
 ### La Scena in MixRemote
 
 Il concetto di "scena" nell'app MixRemote si riferisce a una configurazione preimpostata dei controlli del mixer. Una scena rappresenta una specifica disposizione dei canali e delle impostazioni del mixer, che può essere salvata e richiamata in qualsiasi momento.
