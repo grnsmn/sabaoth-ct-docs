@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Spegnimento dell'Impianto
 ## Procedura per lo Spegnimento dell'Impianto
 
