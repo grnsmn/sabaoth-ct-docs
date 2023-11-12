@@ -1,4 +1,8 @@
-# Introduzione al Mixer
+---
+sidebar_position: 5
+---
+
+# Usare MixRemote
 
 ### Cos'è una "Scena" in MixRemote
 
