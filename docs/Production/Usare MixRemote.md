@@ -51,16 +51,18 @@ Per caricare la scena in MixRemote bisognerà eseguire i seguenti passi sull'int
 3. Selezionata la scena bisognerà fare tap sul button **"Load"** e la scena sarà caricata e tornando sulla sezione **"Faders"** sarà possibile tornare a gestire il mixer della scena caricata
 
 ### Scena predefinita {#scena-predefinita}
-#### Nome: 009- Ultimo
+:::info Nome scena principale
+#### 009- Ultimo
+:::
 
 La scena che ci si deve assicurare sia caricata prima di tutto è la scena dal nome **"009 - Ultimo"**
 
 
-### Equalizzazione Main Out
+## Equalizzazione Main Out
 
 Una delle potenzialità di ogni mixer è quella di avere integrati degli equalizzatori utili a gestire le frequenze per ogni canale in esso e inoltre anche del main out (fader all'estrema destra dell'interfaccia visualizzata [sopra](#interfaccia-mix-remote))
 
-#### Come caricare l'equalizzazione del main out
+### **Come caricare l'equalizzazione del main out?**
 Anche in questo caso è possibile trovare pronte delle equalizzazioni precedentemente salvate e solo da caricare per migliorare il sound generale in sala. Per fare ciò bisognera:
 
 - Fare tap sulla rotellina (sollo logo RCF in alto a destra)
