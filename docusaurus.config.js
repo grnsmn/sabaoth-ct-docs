@@ -103,7 +103,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "Production",
             position: "left",
-            label: "Production",
+            label: "Team Production",
           },
           {
             type: "docSidebar",
