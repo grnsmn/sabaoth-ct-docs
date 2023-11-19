@@ -62,6 +62,7 @@ La scena che ci si deve assicurare sia caricata prima di tutto è la scena dal n
 
 Una delle potenzialità di ogni mixer è quella di avere integrati degli equalizzatori utili a gestire le frequenze per ogni canale in esso e inoltre anche del main out (fader all'estrema destra dell'interfaccia visualizzata [sopra](#interfaccia-mix-remote))
 
+
 ### **Come caricare l'equalizzazione del main out?**
 Anche in questo caso è possibile trovare pronte delle equalizzazioni precedentemente salvate e solo da caricare per migliorare il sound generale in sala. Per fare ciò bisognera:
 
@@ -70,3 +71,11 @@ Anche in questo caso è possibile trovare pronte delle equalizzazioni precedente
 - Su preset:
   - Fare tap su **"Third"** (Per l'equalizzazione mentre la band suona);
   - Fare tap su **"001 - Empty"** (Per il momento in cui sarà lo speaker a parlare)
+
+![Main Out Settings](../../static/img/Production/Main%20Settings.jpg)
+Impostazioni Main Out
+<bp/>
+
+![Equalizer preset](../../static/img/Production/EquilizerMain.jpg)
+Preset equilizer
+<bp/>
