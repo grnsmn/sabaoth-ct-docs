@@ -70,7 +70,7 @@ Anche in questo caso è possibile trovare pronte delle equalizzazioni precedente
 - Sarai portato in una nuova schermata dove dovrai tappare sulla rotellina equalizzatore
 - Su preset:
   - Fare tap su **"Third"** (Per l'equalizzazione mentre la band suona);
-  - Fare tap su **"001 - Empty"** (Per il momento in cui sarà lo speaker a parlare)
+  - Fare tap su **"Empty"** (Per il momento in cui sarà lo speaker a parlare)
 
 ![Main Out Settings](../../static/img/Production/Main%20Settings.jpg)
 Impostazioni Main Out
