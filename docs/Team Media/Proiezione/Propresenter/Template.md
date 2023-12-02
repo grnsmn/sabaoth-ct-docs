@@ -7,8 +7,8 @@ sidebar_label: Uso dei Templates
 Nel seguente video viene mostrato l'utilizzo del concetto di **template** applicabile alle singole o a un gruppo di slide. Strumento molto utile quando bisogna applicare un medesimo template a più slide contemporaneamente perchè devono seguire la stessa logica grafica.
 
 ---
-import ReactPlayer from 'react-player'
+import VideoPlayer from '../../../../src/components/_common/VideoPlayer.js'
 
-<ReactPlayer controls url='https://youtu.be/y1IO7xlKbmE' />
+<VideoPlayer url='https://youtu.be/y1IO7xlKbmE' />
 
 ---

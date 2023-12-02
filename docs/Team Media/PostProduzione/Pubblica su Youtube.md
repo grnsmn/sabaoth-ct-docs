@@ -8,9 +8,9 @@ Se il collaboratore possiede conoscenze e predilige software diversi a Photopea 
 ## Video
 ---
 
-import ReactPlayer from 'react-player'
+import VideoPlayer from '../../../src/components/_common/VideoPlayer.js'
 
-<ReactPlayer controls url='https://youtu.be/kdbz0fA5k0E' />
+<VideoPlayer url='https://youtu.be/kdbz0fA5k0E'/>
 
 ---
 

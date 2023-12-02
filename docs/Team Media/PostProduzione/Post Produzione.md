@@ -8,9 +8,9 @@ Nel seguente video viene mostrato l'uso del software gratuito [Shotcut](https://
 
 ---
 
-import ReactPlayer from 'react-player'
+import VideoPlayer from '../../../src/components/_common/VideoPlayer.js'
 
-<ReactPlayer controls url='https://www.youtube.com/watch?v=S3c87jhuhmo&ab_channel=TeamMedia' />
+<VideoPlayer url='https://www.youtube.com/watch?v=S3c87jhuhmo&ab_channel=TeamMedia' />
 
 ---
 
