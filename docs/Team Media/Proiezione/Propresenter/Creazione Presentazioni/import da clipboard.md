@@ -5,8 +5,9 @@ Nel seguente video viene mostrato come generare una serie di slide partendo da u
 solo semplicemente copiato in clipboard.
 
 ---
-import ReactPlayer from 'react-player'
 
-<ReactPlayer controls url='https://youtu.be/0W4MD1_p2uc' />
+import VideoPlayer from '../../../../../src/components/_common/VideoPlayer.js'
+
+<VideoPlayer url='https://youtu.be/0W4MD1_p2uc' />
 
 ---

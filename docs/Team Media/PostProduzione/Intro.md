@@ -21,9 +21,10 @@ Photopea è un editor di immagini online simile a Adobe Photoshop. Con Photopea,
 Nel seguente video viene data una breve introduzione e prime indicazioni da seguire per lavorare il video del Gospel time registrato. 
 
 ---
-import ReactPlayer from 'react-player'
 
-<ReactPlayer controls url='https://youtu.be/ihXmWwCneHg' />
+import VideoPlayer from '../../../src/components/_common/VideoPlayer.js'
+
+<VideoPlayer controls url='https://youtu.be/ihXmWwCneHg' />
 
 ---
 

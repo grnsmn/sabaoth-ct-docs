@@ -5,8 +5,7 @@ Nel seguente video viene mostrato come generare una serie di slide partendo da u
 formattato seguendo una definita logica illustrata.
 
 ---
-import ReactPlayer from 'react-player'
+import VideoPlayer from '../../../../../src/components/_common/VideoPlayer.js'
 
-<ReactPlayer controls url='https://youtu.be/YvBrM0_24fw' />
-
+<VideoPlayer url='https://youtu.be/YvBrM0_24fw'/>
 ---
