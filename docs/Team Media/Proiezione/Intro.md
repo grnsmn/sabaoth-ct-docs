@@ -2,6 +2,10 @@
 
 Questa documentazione fornisce una guida dettagliata sulle attività da svolgere prima dell'inizio della presentazione del Gospel alla Sabaoth Church Catania. Seguendo questi passaggi, garantirete una presentazione impeccabile e senza intoppi.
 
+:::caution Avvertimento importante
+### Il materiale da preparare dovrebbe essere TUTTO pronto sempre almeno **15 minuti prima** dell'ora di inizio del gospel time. Ciò implica che il volontario di turno è decisamente incoraggiato ad essere sul luogo almeno un'oretta prima dell'inizio del gospel time così da affrontare serenamente e nel giusto tempo qualsiasi eventuale imprevisto.
+:::
+
 ## 1. Controllo della Casella di Posta Elettronica
 
 Prima di tutto, controllate la casella di posta elettronica dell'account mediasabaothcatania@gmail.com. Verificate se sono arrivate nuove email relative alla presentazione del Gospel.
@@ -13,7 +17,7 @@ Solitamente, riceverete almeno due email cruciali: la scaletta inviata dal respo
 Inoltre, potrebbero esserci altre email relative agli annunci o al materiale da proiettare in modo eccezionale. Assicuratevi di esaminarle attentamente e preparatevi a scaricare tutto questo materiale.
 
 :::caution
-**Consiglio vivamente di salvare con nome esplicativo i file che state scaricando e di scegliere con cura il percorso esatto in cui salvarlo**
+**Si consiglia vivamente di salvare con nome esplicativo i file che state scaricando e di scegliere con cura il percorso esatto in cui salvarlo**
 
 (**Non scarichare tutto sulla scrivania/Desktop senza prima aver provato a capire quale possa essere la cartella ideale in cui salvare quanto si sta scaricando**)
 :::
@@ -26,9 +30,9 @@ Una volta ricevuto tutto il materiale al punto 2, è ora di preparare la present
 - Verificate se ci sono nuovi brani da inserire nella libreria di ProPresenter, ma generalmente il worship leader segnalerà se un brano è del tutto nuovo.
 - Caricate su ProPresenter tutti i media scaricati precedentemente (punto 2), come immagini o video e tenerli pronti per il momento opportuno.
 
-## 4. Controllo della Presentazione PowerPoint con LibreOffice
+## 4. Controllo della Presentazione PowerPoint
 
-Aprite la presentazione PowerPoint ricevuta dal predicatore utilizzando LibreOffice. Eseguite un controllo generale per assicurarvi che tutto sia a posto:
+Aprite la presentazione PowerPoint ricevuta dal predicatore (Nel caso in cui non fosse presente nella mail assicurarsi che il predicatore abbia effettivamente inviato la mail e segnalare in tempo il reinvio). Eseguite un controllo generale per assicurarvi che tutto sia a posto:
 
 - Verificate l'ortografia, la grammatica e la formattazione dei testi.
 - Controllate la grandezza dei testi per garantire che siano leggibili anche da lontano.
