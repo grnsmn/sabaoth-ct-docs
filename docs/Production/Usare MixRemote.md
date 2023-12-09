@@ -20,7 +20,7 @@ Le scene possono subire delle variazioni dettate dalle esigenze che possono sorg
 
 Come mostrato dai seguenti screenshot, questa è la schermata sulla quale si arriva una volta connesso il proprio dispositivo (Tablet o Smarthphone) al mixer.
 
-:::caution Attenzione
+:::warning Attenzione
 La seguente immagine è relativa ad una scena oramai in disuso, tenere in considerazione questa immagine solo per acquisire familiarità con l'interfaccia e la disposizione dei canali perchè rimasti invariati in attesa che venga aggiornata
 
 **Il nome della scena dunque a cui fare riferimento verrà discussa più avanti in questa guida**

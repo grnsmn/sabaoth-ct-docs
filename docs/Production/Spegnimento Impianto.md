@@ -5,7 +5,7 @@ sidebar_position: 6
 # Spegnimento dell'Impianto
 ## Procedura per lo Spegnimento dell'Impianto
 
-:::caution Presta attenzione
+:::danger Presta attenzione
 **Seguire attentamente la seguente procedura cronologica per spegnere correttamente l'impianto audio:**
 :::
 1. Spegnere i Monitor: Per ciascun monitor premere il pulsante di spegnimento.
