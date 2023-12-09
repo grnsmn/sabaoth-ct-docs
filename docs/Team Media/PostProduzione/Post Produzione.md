@@ -2,7 +2,7 @@
 
 Nel seguente video viene mostrato l'uso del software gratuito [Shotcut](https://www.shotcut.org/) per eseguire l'editing del video. La scelta del software da utilizzare può vergere verso altro software se il collaboratore ha conoscenza e possibilità d'utilizzo di altri software di editing video.
 
-:::caution
+:::warning
  I video **Intro** e **Outro** mostrati nel seguente video non sono aggiornati all'anno corrente perchè lo scopo è quello di mostrare e far conoscere principalmente i passi e le funzioni necessarie del software utili al nostro caso d'uso per creare il video da pubblicare. 
 :::
 
