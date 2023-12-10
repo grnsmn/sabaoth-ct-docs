@@ -6,7 +6,7 @@ sidebar_position: 1
 Benvenuto nella documentazione del team media della chiesa! Questa guida è pensata per fornirti indicazioni su come preparare e presentare le tue presentazioni visive durante i tuoi messaggi. Seguendo questi consigli, potrai migliorare l'impatto della tua comunicazione e garantire un'esperienza coinvolgente per l'intera congregazione. 
 
 
-:::note
+:::note Info utili
 Se si necessita della proiezione di materiale video mandare **link youtube** di riferimento o usare il servizio [wetransfer](https://wetransfer.com/) per l'invio di file video pesanti alla mail mediasabaothcatania@gmail.com.
 Per tutti i video e/o immagini da mostrare si consiglia di scegliere preferibilmente il formato orizzontale in 16/9 e non verticale per una buona resa della proiezione.
 :::
@@ -50,7 +50,11 @@ Una volta che hai personalizzato la presentazione e hai assicurato che il font G
 
 È importante inviare la presentazione con un congruo anticipo, bastano 3 ore prima dell'orario previsto per il Gospel. In questo modo, il team media avrà il tempo necessario per preparare e verificare la presentazione prima dell'inizio del servizio.
 
-Invia il file della presentazione all'indirizzo mediasabaothcatania@gmail.com in modo che il team possa garantire una corretta gestione e organizzazione delle presentazioni dei predicatori.
+Invia il file della presentazione all'indirizzo mediasabaothcatania@gmail.com in modo che il team possa garantire una corretta gestione e organizzazione delle presentazioni dei predicatori. All'invio riceverai una mail di risposta generata automaticamente che conferma l'avvenuta ricezione nella casella del team oltre che a fornirvi ulteriori info utili. 
+
+:::warning Attenzione
+Si prega di fare attenzione alla mail di risposta automatica perchè vuole essere una **istantanea** conferma dell'effettivo invio dalla vostra casella di posta verso quella del team con lo scopo di scongiurare un invio non riuscito da parte vostra che potrebbe comportare ritardi generali nella preparazione di tutto l'occorrente necessario al gospel time.
+:::
 
 Ricordati che inviare una sola mail con il file finale della presentazione, anziché inviare email multiple a causa di rettifiche o modifiche successive, semplificherà il lavoro del team media e garantirà una migliore gestione delle presentazioni durante il Gospel.
 
