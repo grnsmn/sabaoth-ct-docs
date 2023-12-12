@@ -9,7 +9,7 @@ const darkCodeTheme = themes.dracula;
 const config = {
   title: 'Docs Sabaoth Church Catania',
   tagline: 'Sito pensato e dedicato alla formazione e al supporto dei collaboratori Sabaoth',
-  favicon: 'img/favicon.png',
+  favicon: 'img/CT.png',
   plugins: [
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
@@ -73,13 +73,11 @@ const config = {
       // Replace with your project's social card
       image: "img/sabaoth.png",
       navbar: {
-        title: " Documentazione",
+        title: "Documentazione",
         logo: {
           alt: "Sabaoth Church",
-          src: "img/logoBK.svg",
-          srcDark: "img/logo-bianco.png",
-          height: 100,
-          width: 45,
+          src: "img/CT-transparent.png",
+          srcDark: "img/CT.png",
         },
         items: [
           {
