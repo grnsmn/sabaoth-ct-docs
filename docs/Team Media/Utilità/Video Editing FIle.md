@@ -20,5 +20,5 @@ Il formato del titolo e la relativa descrizione da utilizzare per l'upload su yo
 :::info
 Il file PSD  aggiornato per la miniatura è scaricabile al seguente link:
 
-- [Download](https://drive.google.com/drive/folders/1zdrups0Sn5FA9plyd3HclC6FRB7YJRfQ?usp=share_link)  File PSD per la miniatura
+- [Download](https://drive.google.com/file/d/1ZcTUWxU5b0jxlZqZ1r2dwqZn7H5vbQW8/view?usp=drive_link)  File PSD per la miniatura
 :::
