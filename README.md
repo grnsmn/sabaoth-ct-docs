@@ -1,6 +1,6 @@
 # Documentazione della Sabaoth Church Catania
 
-Benvenuti alla documentazione della Sabaoth Church Catania! Questo repository contiene il codice sorgente del sito web del progetto di documentazione, creato con Docusaurus.
+Benvenuti alla documentazione della Sabaoth Church Catania! Questo repository contiene il codice sorgente del [sito](https://sabaothctdocs.netlify.app) di documentazione, creato con Docusaurus.
 
 ## Come contribuire
 
