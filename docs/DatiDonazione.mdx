@@ -3,20 +3,24 @@ sidebar_position: 2
 title: Come donare
 ---
 
+import { Player } from "@lottiefiles/react-lottie-player";
+import pay from "../static/lottie/pay.json";
+import paypal from "../static/lottie/paypal.json";
 import ioDono from "../static/img/Donazione.jpeg";
-
-## BONIFICO BANCARIO
-
-:::tip tip
-
-### Puoi copiare il dato completo cliccando nella parte destra delle caselle
-
-:::
 
 :::info
 
 ### **La tua donazione è detraibile/deducibile**
 
+:::
+
+## BONIFICO BANCARIO
+
+:::tip Copia con un tap !
+
+### Puoi copiare il dato completo cliccando nella parte destra delle caselle
+
+<Player autoplay loop src={pay} style={{ height: "120px", width: "120px" }} />
 :::
 
 **INTESTAZIONE**
@@ -52,7 +56,14 @@ DONAZIONE LIBERALE
 
 ## PAYPAL
 
-:::info
+:::info Da SmartPhone
+
+<Player
+  autoplay
+  loop
+  src={paypal}
+  style={{ height: "120px", width: "120px" }}
+/>
 
 Per donare con paypal da _smartphone_ vai a **[QUESTO LINK](https://www.paypal.com/donate/?hosted_button_id=H8NV568VJ3VQL&source=qr)**
 
