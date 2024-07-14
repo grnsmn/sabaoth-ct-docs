@@ -9,5 +9,5 @@ Per avere accesso e controllo all'app x-air bisogna inserire la seguente passwor
 :::
 
 ```
-kMGg1cH6Qzfa
+SopLXTEXMCDTBH5CGF4fYATH
 ```
