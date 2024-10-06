@@ -8,7 +8,8 @@ In questa sezione, forniremo delle linee guida da seguire per il servizio di fot
 2. Fai attenzione ai dettagli, come i sorrisi, gli abbracci e i gesti di benvenuto.
 
 ## Musica di inizio
-considera di essere in anticipo lì per approfittare delle prove dei musicisti per scattare foto con una maggiore illuminazione e anche perchè in quel momento ti è concesso salire sul palco per scattare foto più vicine ai musicisti.
+Considera la possibilità di essere in anticipo sul luogo per approfittare delle prove dei musicisti per scattare foto con una maggiore illuminazione ed inoltre perchè in quel momento ti è anche concesso di salire sul palco per scattare foto più vicine ai musicisti. 
+In genere i musicisti sono sul luogo almeno un'ora prima dell'inizio del servizio e in ogni caso puoi riservarti la possibilità di contattare il responsabile dei Sounds per coordinarti con lui a tale scopo.
 
 1. Sii attento ai movimenti ritmici, alle espressioni facciali intense e alle emozioni che si manifestano durante questa fase. Cerca di cogliere anche i dettagli degli strumenti musicali e dell'ambiente circostante.
 2. Cerca di catturare l'energia e l'entusiasmo dei musicisti e dei partecipanti.
