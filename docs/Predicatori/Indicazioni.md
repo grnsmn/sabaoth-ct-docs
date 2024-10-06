@@ -72,6 +72,6 @@ Seguendo queste linee guida, contribuirai a garantire un'esperienza di proiezion
 
 In caso di particolari esigenze o domande, puoi contattare il responsabile media, Simone Guarnuccio. Sarà lieto di assisterti e fornirti ulteriori informazioni.
 
-Inoltre, per poter sapere ed eventualmente contattare il volontario responsabile alle proiezioni, ti invitiamo a consultare il [calendario dei turni dei collaboratori](../Team%20Media/Calendario%20Turni.mdx). Questo ti permetterà di avere una panoramica completa e di poter comunicare eventuali esigenze specifiche direttamente al volontario di turno.
+Inoltre, per poter sapere ed eventualmente contattare il volontario responsabile alle proiezioni, ti invitiamo a consultare il [calendario dei turni dei collaboratori](../Calendario%20Turni.mdx). Questo ti permetterà di avere una panoramica completa e di poter comunicare eventuali esigenze specifiche direttamente al volontario di turno.
 
 Grazie per la tua collaborazione e dedizione nel fornire un messaggio significativo alla comunità della Sabaoth Church Catania!
