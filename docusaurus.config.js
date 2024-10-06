@@ -100,6 +100,12 @@ const config = {
           },
           {
             type: "docSidebar",
+            sidebarId: "Fotografia",
+            position: "left",
+            label: "Fotografia e socials",
+          },
+          {
+            type: "docSidebar",
             sidebarId: "Production",
             position: "left",
             label: "Team Production",
