@@ -130,7 +130,7 @@ const config = {
             items: [
               {
                 label: "Calendario Turni",
-                to: "/docs/Team%20Media/Calendario%20Turni",
+                to: "/docs/Calendario%20Turni",
               },
               {
                 label: "Utilità",

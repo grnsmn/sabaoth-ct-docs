@@ -17,15 +17,29 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Vai alla Docs  
+            to="/docs/Calendario%20Turni">
+            Vai al Calendari dei turni  
           </Link>
         </div>
         <div className={styles.buttons}>
-        <Link
+          <Link
             className="button button--secondary button--lg"
-            to="/docs/Team%20Media/Calendario%20Turni">
-            Vai al Calendari dei turni  
+            to="/docs/intro">
+            Perchè questa documentazione?
+          </Link>
+        </div>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/Team Media/Intro">
+            Documentazione Team Media
+          </Link>
+        </div>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/DatiDonazione">
+            Vai alla pagina di Donazione
           </Link>
         </div>
       </div>
