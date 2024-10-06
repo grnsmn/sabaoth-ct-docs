@@ -3,6 +3,11 @@ sidebar_position: 1
 ---
 # Gestione Fonia
 
+:::danger Attenzione
+Questa sezione è ha subito cambiamenti nell'utilizzo di alcuni software e/o strumentazione diversa rispetto a quanto trovate in questa sezione.
+Grazie per la pazienza e per qualsiasi dubbio chiedere chiarimenti al responsabile di area.
+:::
+
 Benvenuti nella sezione dedicata alla gestione della fonia in sala per supportare i musicisti. Qui troverete informazioni sulla strumentazione fisica e il software utilizzati per garantire un audio di qualità durante le esibizioni.
 
 ## Obiettivo
@@ -21,6 +26,7 @@ Questa sezione della documentazione coprirà i seguenti argomenti:
 
 2. Software:
    - MixRemote: presenteremo l'app MixRemote, un'applicazione di controllo remoto che consente di regolare e controllare il mixer audio da un dispositivo mobile. Esploreremo le funzionalità e le operazioni di base offerte da MixRemote per ottimizzare il mix audio durante le performance dei musicisti.
+
 
 ## Guida alla Navigazione
 
