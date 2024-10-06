@@ -1,22 +1,30 @@
-# Linee guida per il servizio di fotografia del momento del gospel
+# Linee guida
 
-In questa sezione, forniremo delle linee guida da seguire per il servizio di fotografia. L'obiettivo è catturare al meglio l'atmosfera e l'energia di questi momenti speciali attraverso le foto.
+In questa sezione, forniremo delle linee guida da seguire per il servizio di fotografia. Durante il gospel, è importante catturare i momenti peculiari in modo significativo. Segui queste linee guida per scattare foto di qualità e segnalaci altri consigli se pensi manchi qualcosa che conosci e possa apportare valore a questa guida:
 
 ## Accoglienza
 
-Durante il momento dell'accoglienza, cerca di catturare l'entusiasmo e la gioia delle persone che si incontrano. Sii attento ai sorrisi, agli abbracci e ai gesti di affetto. Cerca di immortalare anche i dettagli significativi, come le decorazioni o gli oggetti simbolici presenti.
+1. Cerca di catturare l'entusiasmo e la gioia delle persone durante l'accoglienza.
+2. Fai attenzione ai dettagli, come i sorrisi, gli abbracci e i gesti di benvenuto.
 
 ## Musica di inizio
+considera di essere in anticipo lì per approfittare delle prove dei musicisti per scattare foto con una maggiore illuminazione e anche perchè in quel momento ti è concesso salire sul palco per scattare foto più vicine ai musicisti.
 
-Durante l'inizio della musica, cerca di catturare l'energia e l'entusiasmo dei musicisti e dei partecipanti. Sii attento ai movimenti ritmici, alle espressioni facciali intense e alle emozioni che si manifestano durante questa fase. Cerca di cogliere anche i dettagli degli strumenti musicali e dell'ambiente circostante.
+1. Sii attento ai movimenti ritmici, alle espressioni facciali intense e alle emozioni che si manifestano durante questa fase. Cerca di cogliere anche i dettagli degli strumenti musicali e dell'ambiente circostante.
+2. Cerca di catturare l'energia e l'entusiasmo dei musicisti e dei partecipanti.
 
-## Momento dello speaker
+## Messaggio dello speaker
 
-Durante il momento dello speaker, cerca di catturare l'attenzione e l'interesse del pubblico. Sii attento alle espressioni facciali, ai gesti eloquenti e alle reazioni emotive delle persone presenti. Cerca di cogliere anche i dettagli significativi dell'ambiente, come il palco o gli elementi scenografici.
+Quando lo speaker comunica il suo messaggio, è fondamentale che le foto siano incentrate sullo speaker stesso. Cerca di catturare l'attenzione e l'interesse del pubblico, ma assicurati che lo speaker sia il soggetto principale delle tue foto. Presta attenzione ai dettagli significativi dell'ambiente, come il palco o gli elementi scenografici, ma senza distogliere l'attenzione dallo speaker.
 
-Ricorda, per ogni momento peculiare del gospel, cerca di scattare **almeno 10 foto varie e successivamente seleziona le migliori 4** per ognuno di questi momenti. Questo ti aiuterà a creare una raccolta di immagini rappresentative e di alta qualità.
 
-## Consigli pratici per la selezione delle foto
+## La selezione delle foto
+
+:::warning Ricorda
+Per ogni momento peculiare del gospel, cerca di scattare **almeno 10 foto varie e successivamente seleziona le migliori 4** per ognuno di questi momenti. Questo ti aiuterà a creare una raccolta di immagini rappresentative e di alta qualità che dovrai fornire a chi dovrà eseguire la pubblicazione nei nostri canali social.
+:::
+
+### Consigli pratici per la selezione delle foto
 
 Quando selezioni le foto da includere nella raccolta finale, tieni a mente i seguenti consigli pratici per scegliere le migliori e scartare quelle meno riuscite:
 
@@ -27,5 +35,7 @@ Quando selezioni le foto da includere nella raccolta finale, tieni a mente i seg
 - **Dettagli**: Scarta le foto che non aggiungono valore alla narrazione visiva. Cerca immagini che includano dettagli significativi e che contribuiscano a raccontare la storia dell'evento.
 
 Seguendo questi consigli, potrai creare una raccolta di foto che rappresenti al meglio l'atmosfera e l'energia dell'evento, garantendo al contempo una qualità elevata delle immagini selezionate.
+
+La fotografia dei momenti del gospel è un modo potente per catturare e condividere l'esperienza nei social.
 
 Buon lavoro e buona fotografia!
