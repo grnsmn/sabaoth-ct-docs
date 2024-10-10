@@ -7,9 +7,10 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docs Sabaoth Church Catania',
-  tagline: 'Sito pensato e dedicato alla formazione e al supporto dei collaboratori Sabaoth',
-  favicon: 'img/CT.png',
+  title: "Docs Sabaoth Church Catania",
+  tagline:
+    "Sito pensato e dedicato alla formazione e al supporto dei collaboratori Sabaoth",
+  favicon: "img/CT.png",
   plugins: [
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
@@ -96,6 +97,12 @@ const config = {
             sidebarId: "TeamMedia",
             position: "left",
             label: "Team Media",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "Fotografia",
+            position: "left",
+            label: "Fotografia",
           },
           {
             type: "docSidebar",
