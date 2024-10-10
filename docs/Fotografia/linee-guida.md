@@ -59,5 +59,6 @@ Per eseguire questa condivisione, puoi utilizzare un servizio di cloud storage c
 
 
 La fotografia dei momenti del gospel è un modo potente per catturare e condividere l'esperienza nei social.
+Grazie per la tua collaborazione e per il tuo impegno nel catturare i momenti speciali del gospel.
 
 Buon lavoro e buona fotografia!
