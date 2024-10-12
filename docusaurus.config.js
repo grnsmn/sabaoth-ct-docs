@@ -1,45 +1,104 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+const docusaurusData = require("./config/docusaurus/index.json");
 
-const { themes } = require("prism-react-renderer");
-const lightCodeTheme = themes.github;
-const darkCodeTheme = themes.dracula;
+const lightCodeTheme = require("prism-react-renderer").themes.github;
+const darkCodeTheme = require("prism-react-renderer").themes.dracula;
+
+const getDocId = (doc) => {
+  return doc
+    .replace(/\.mdx?$/, "")
+    .split("/")
+    .slice(1)
+    .join("/");
+};
+
+const getPageRoute = (page) => {
+  return page
+    .replace(/\.mdx?$/, "")
+    .split("/")
+    .slice(2)
+    .join("/");
+};
+
+const getPath = (page) => {
+  return page.replace(/\.mdx?$/, "");
+};
+
+const formatFooterItem = (item) => {
+  if (item.title) {
+    return {
+      title: item.title,
+      items: item.items.map((subItem) => {
+        return formatFooterItem(subItem);
+      }),
+    };
+  } else {
+    let linkObject = {
+      label: item.label,
+    };
+
+    if (item.to) {
+      linkObject.to = getPath(item.to);
+    } else if (item.href) {
+      linkObject.href = item.href;
+    } else {
+      linkObject.to = "/blog";
+    }
+
+    return linkObject;
+  }
+};
+
+const formatNavbarItem = (item, subnav = false) => {
+  let navItem = {
+    label: item.label,
+  };
+
+  if (!subnav) {
+    navItem.position = item.position;
+  }
+
+  if (item.link === "external" && item.externalLink) {
+    navItem.href = item.externalLink;
+  }
+
+  if (item.link === "blog") {
+    navItem.to = "/blog";
+  }
+
+  if (item.link === "page" && item.pageLink) {
+    navItem.to = getPageRoute(item.pageLink);
+  }
+
+  if (item.link === "doc" && item.docLink) {
+    navItem.type = "doc";
+    navItem.docId = getDocId(item.docLink);
+  }
+
+  if (item.items) {
+    navItem.type = "dropdown";
+    navItem.items = item.items.map((subItem) => {
+      return formatNavbarItem(subItem, true);
+    });
+  }
+
+  return navItem;
+};
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Docs Sabaoth Church Catania",
-  tagline:
-    "Sito pensato e dedicato alla formazione e al supporto dei collaboratori Sabaoth",
-  favicon: "img/CT.png",
-  plugins: [
-    [
-      require.resolve("@cmfcmf/docusaurus-search-local"),
-      {
-        language: ["it", "en"],
-      },
-    ],
-  ],
-
-  // Set the production url of your site here
-  url: "https://your-docusaurus-test-site.com",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  title: docusaurusData.title || "My Site",
+  tagline: docusaurusData.tagline || "Dinosaurs are cool",
+  url: docusaurusData.url || "https://tinasaurus.vercel.app/",
   baseUrl: "/",
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Sabaoth Catania", // Usually your GitHub org/user name.
-  projectName: "sabaothct-docs", // Usually your repo name.
-
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  deploymentBranch: "dev",
+  favicon: "img/favicon.ico",
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "it",
-    locales: ["it"],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
@@ -49,17 +108,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: undefined
+          editUrl: docusaurusData.url + "/admin/#/collections/doc",
         },
-        // blog: {
-        //   showReadingTime: false,
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        // },
+        blog: {
+          showReadingTime: true,
+          editUrl: docusaurusData.url + "/admin/#/collections/post",
+        },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
@@ -70,133 +124,28 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: "img/sabaoth.png",
       navbar: {
-        title: "Documentazione",
+        title: docusaurusData.title || "",
         logo: {
-          alt: "Sabaoth Church",
-          src: "img/CT-transparent.png",
-          srcDark: "img/CT.png",
+          alt: docusaurusData?.logo?.alt
+            ? docusaurusData?.logo?.alt
+            : "My Logo",
+          src: docusaurusData?.logo?.src
+            ? docusaurusData?.logo?.src
+            : "img/logo.svg",
         },
-        items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "Introduzione",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "Donazione",
-            position: "right",
-            label: "Io Dono",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "TeamMedia",
-            position: "left",
-            label: "Team Media",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "Fotografia",
-            position: "left",
-            label: "Fotografia",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "Production",
-            position: "left",
-            label: "Team Production",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "Predicatori",
-            position: "left",
-            label: "Predicatori",
-          },
-          {
-            type: "docSidebar",
-            sidebarId: "Utilità",
-            position: "right",
-            label: "Utilità",
-          },
-          // {
-          //   href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
-        ],
+        items: docusaurusData.navbar.map((item) => {
+          return formatNavbarItem(item);
+        }),
       },
       footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Calendario Turni",
-                to: "/docs/Calendario%20Turni",
-              },
-              {
-                label: "Utilità",
-                to: "/docs/Team Media/Utilità/Maiuscole accentate",
-              },
-              {
-                label: "Predicatori",
-                to: "/docs/Predicatori/Indicazioni",
-              },
-              {
-                label: "Proiezioni",
-                to: "/docs/Team%20Media/Proiezione/Intro",
-              },
-              {
-                label: "Post Production",
-                to: "/docs/Team%20Media/PostProduzione/Intro",
-              },
-              {
-                label: "Accensione Impianto",
-                to: "/docs/Production/Accensione impianto",
-              },
-            ],
-          },
-          {
-            title: "Social",
-            items: [
-              {
-                label: "Instagram",
-                href: "https://www.instagram.com/sabaothcatania",
-              },
-              {
-                label: "Facebook",
-                href: "https://www.facebook.com/sabaothcatania",
-              },
-              {
-                label: "YouTube",
-                href: "https://www.youtube.com/@sabaothchurchcatania6496",
-              },
-              {
-                label: "Spotify",
-                href: "https://open.spotify.com/show/1nH7YyL2mE2uDOnWtJ8zQJ?si=i9OnLkSZSOaJrI9f2x56Bg&nd=1",
-              },
-            ],
-          },
-          {
-            title: "Vuoi Contribuire ?",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/grnsmn/sabaoth-ct-docs/",
-              },
-              {
-                label: "Dona con Paypal",
-                href: "https://paypal.me/SabaothCatania",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Sabaoth Catania Docs`,
+        style: docusaurusData.footer?.style || "dark",
+        links: docusaurusData.footer?.links.map((item) => {
+          return formatFooterItem(item);
+        }),
+        copyright:
+          `Copyright © ${new Date().getFullYear()} ` +
+          (docusaurusData.footer?.copyright || docusaurusData.title),
       },
       prism: {
         theme: lightCodeTheme,
