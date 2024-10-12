@@ -9,7 +9,7 @@ import { docusaurusDate, titleFromSlug } from "../util";
 import title from "title";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = "features/tinaCMS";
+const branch = "features/tinaCMS" || process.env.HEAD;
 
 const WarningIcon = (props) => {
   return (
