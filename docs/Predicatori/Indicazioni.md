@@ -14,7 +14,7 @@ Per tutti i video e/o immagini da mostrare si consiglia di scegliere preferibilm
 
 ## 1. Utilizzo del template di presentazione
 
-Per semplificare il processo di creazione delle presentazioni, mettiamo a disposizione un template predefinito che include una grafica accattivante e uno schema di colori coerente. Puoi scaricare il template dalla seguente posizione: [Template Presentazione](https://drive.google.com/file/d/1coMLmMIi9t6RotR_2Krzldk51dyDDHzn/view?usp=share_link)
+Per semplificare il processo di creazione delle presentazioni, mettiamo a disposizione un template predefinito che include una grafica accattivante e uno schema di colori coerente. Puoi scaricare il template dalla seguente posizione: [Template Presentazione](https://drive.google.com/file/d/1hvKv1RQAj44wCtzteiAMFg9zCmxoXepU/view?usp=drive_link)
 
 Una volta scaricato il template, apri il file .ppot e sarai pronto per iniziare a personalizzare la presentazione secondo le tue esigenze.
 
