@@ -1,20 +1,19 @@
 ---
 sidebar_position: 1
 ---
+
 # Principali indicazioni
 
-Benvenuto nella documentazione del team media della chiesa! Questa guida è pensata per fornirti indicazioni su come preparare e presentare le tue presentazioni visive durante i tuoi messaggi. Seguendo questi consigli, potrai migliorare l'impatto della tua comunicazione e garantire un'esperienza coinvolgente per l'intera congregazione. 
-
+Benvenuto nella documentazione del team media della chiesa! Questa guida è pensata per fornirti indicazioni su come preparare e presentare le tue presentazioni visive durante i tuoi messaggi. Seguendo questi consigli, potrai migliorare l'impatto della tua comunicazione e garantire un'esperienza coinvolgente per l'intera congregazione.
 
 :::note Info utili
 Se si necessita della proiezione di materiale video mandare **link youtube** di riferimento o usare il servizio [wetransfer](https://wetransfer.com/) per l'invio di file video pesanti alla mail mediasabaothcatania@gmail.com.
 Per tutti i video e/o immagini da mostrare si consiglia di scegliere preferibilmente il formato orizzontale in 16/9 e non verticale per una buona resa della proiezione.
 :::
 
-
 ## 1. Utilizzo del template di presentazione
 
-Per semplificare il processo di creazione delle presentazioni, mettiamo a disposizione un template predefinito che include una grafica accattivante e uno schema di colori coerente. Puoi scaricare il template dalla seguente posizione: [Template Presentazione](https://drive.google.com/file/d/1hvKv1RQAj44wCtzteiAMFg9zCmxoXepU/view?usp=drive_link)
+Per semplificare il processo di creazione delle presentazioni, mettiamo a disposizione un template predefinito che include una grafica accattivante e uno schema di colori coerente. Puoi scaricare il template dalla seguente [Template Presentazione](https://drive.google.com/file/d/1hvKv1RQAj44wCtzteiAMFg9zCmxoXepU/view?usp=sharing)
 
 Una volta scaricato il template, apri il file .ppot e sarai pronto per iniziare a personalizzare la presentazione secondo le tue esigenze.
 
@@ -24,12 +23,12 @@ Dopo aver aperto il template, segui questi passaggi per personalizzare la presen
 
 - Copia e incolla le slide di esempio: il template fornito contiene tre slide di esempio che illustrano diversi tipi di contenuti. Puoi utilizzare queste slide come punto di partenza per le tue slide personali. Per aggiungere una nuova slide, fai clic con il pulsante destro del mouse sulla miniatura di una slide esistente nella barra laterale e seleziona "Copia". Quindi, fai clic con il pulsante destro del mouse sulla posizione in cui desideri inserire la nuova slide e seleziona "Incolla". In questo modo, otterrai una copia della slide esistente che potrai personalizzare con il tuo testo e le tue immagini.
 
-- Personalizza le slide copiate: una volta copiate le slide di esempio, apporta le modifiche necessarie per adattarle ai tuoi contenuti. 
+- Personalizza le slide copiate: una volta copiate le slide di esempio, apporta le modifiche necessarie per adattarle ai tuoi contenuti.
 
 - Mantieni la coerenza visiva: durante la personalizzazione delle slide, assicurati di mantenere la coerenza visiva con il resto della presentazione. Utilizza gli stessi stili di carattere, colori e schemi di layout delle slide di esempio per garantire un aspetto professionale e uniforme.
-Per garantire una coerenza visiva e uno stile uniforme, si consiglia di utilizzare il font GEOMETOS nella presentazione. Questo font è stato selezionato per offrire un aspetto moderno e leggibile alle slidene in [questa sezione](./Guida%20Installazione%20Geometos) trovi le indicazioni per installarlo nel tuo pc.
+  Per garantire una coerenza visiva e uno stile uniforme, si consiglia di utilizzare il font GEOMETOS nella presentazione. Questo font è stato selezionato per offrire un aspetto moderno e leggibile alle slidene in [questa sezione](./Guida%20Installazione%20Geometos) trovi le indicazioni per installarlo nel tuo pc.
 
-## 3. Revisione 
+## 3. Revisione
 
 Prima di utilizzare la presentazione durante il tuo messaggio, può essere utile effettuare una revisione per assicurarti che tutto sia definitivamente pronto. Ecco alcuni suggerimenti:
 
@@ -50,7 +49,7 @@ Una volta che hai personalizzato la presentazione e hai assicurato che il font G
 
 È importante inviare la presentazione con un congruo anticipo, bastano 3 ore prima dell'orario previsto per il Gospel. In questo modo, il team media avrà il tempo necessario per preparare e verificare la presentazione prima dell'inizio del servizio.
 
-Invia il file della presentazione all'indirizzo mediasabaothcatania@gmail.com in modo che il team possa garantire una corretta gestione e organizzazione delle presentazioni dei predicatori. All'invio riceverai una mail di risposta generata automaticamente che conferma l'avvenuta ricezione nella casella del team oltre che a fornirvi ulteriori info utili. 
+Invia il file della presentazione all'indirizzo mediasabaothcatania@gmail.com in modo che il team possa garantire una corretta gestione e organizzazione delle presentazioni dei predicatori. All'invio riceverai una mail di risposta generata automaticamente che conferma l'avvenuta ricezione nella casella del team oltre che a fornirvi ulteriori info utili.
 
 :::warning Attenzione
 Si prega di fare attenzione alla mail di risposta automatica perchè vuole essere una **istantanea** conferma dell'effettivo invio dalla vostra casella di posta verso quella del team con lo scopo di scongiurare un invio non riuscito da parte vostra che potrebbe comportare ritardi generali nella preparazione di tutto l'occorrente necessario al gospel time.
