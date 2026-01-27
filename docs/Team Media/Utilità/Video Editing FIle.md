@@ -11,7 +11,7 @@ I file video **Intro** e **Outro** aggiornati sono scaricabili ai seguenti link:
 
 File video utile alle prime esercitazione per la postproduzione di cui si è documentato [qui](../PostProduzione/Post%20Produzione.md)
 
-- [Download](https://drive.google.com/file/d/1gRXDwjzvID5XiZttSvftzdnPa-lYDrfu/view?usp=share_link) Video Gospel per esercitazione
+- [Download](https://drive.google.com/file/d/15nNO878HyidQLQFFB0YhDCJCJWoSHf8n/view?usp=drive_link) Video Gospel per esercitazione
   :::
 
 :::tip LINK A MINIATURA YOUTUBE

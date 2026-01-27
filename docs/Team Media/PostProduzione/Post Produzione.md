@@ -19,5 +19,5 @@ I file video **Intro** e **Outro** aggiornati sono scaricabili ai seguenti link:
 
 - [Download](https://drive.google.com/file/d/1XIlXIeMVRpexhtWz9RTPtMtkhKHJBJN7/view?usp=drive_link) Video Intro
 - [Download](https://drive.google.com/file/d/1AS8qJqhJUM9xyVLIp0cesjsp1daMlzC0/view?usp=drive_link) Video Outro
-- [Download](https://drive.google.com/file/d/1gRXDwjzvID5XiZttSvftzdnPa-lYDrfu/view?usp=share_link) Video Gospel per esercitazione, chiedere a responsabile se non dovesse essere disponibile il video al download
+- [Download](https://drive.google.com/file/d/15nNO878HyidQLQFFB0YhDCJCJWoSHf8n/view?usp=drive_link) Video Gospel per esercitazione
   :::
