@@ -4,6 +4,13 @@ var config_default = defineConfig({
   branch: process.env.TINA_BRANCH || process.env.HEAD || "master",
   clientId: process.env.TINA_PUBLIC_CLIENT_ID || null,
   token: process.env.TINA_TOKEN || null,
+  ui: {
+    commitMessage: ({ hasChanges, items }) => {
+      if (!items || items.length === 0) return "docs: aggiornamento contenuti";
+      const files = items.map(({ filename }) => filename.replace(/^docs\//, "").replace(/\.mdx?$/, "")).join(", ");
+      return `docs: aggiornato "${files}"`;
+    }
+  },
   build: {
     outputFolder: "admin",
     publicFolder: "static"
