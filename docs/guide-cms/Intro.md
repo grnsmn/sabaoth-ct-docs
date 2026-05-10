@@ -36,6 +36,39 @@ Con l'editor puoi:
 - ✅ **Inserire video** da YouTube
 - ✅ **Formattare il testo** (grassetto, corsivo, titoli, elenchi, ecc.)
 
+## Le due collezioni: quale usare?
+
+Quando entri nel pannello `/admin`, vedrai due sezioni nella colonna sinistra:
+
+### 📄 Documentazione
+È la collezione principale. Contiene tutti i file `.md` del sito — la grande maggioranza dei contenuti.
+
+**Usala per:**
+- Modificare o creare guide di testo (procedure, istruzioni, spiegazioni)
+- Qualsiasi pagina che non contiene video incorporati
+
+### 🧩 Documentazione (con componenti)
+Contiene i file `.mdx` — documenti che usano elementi interattivi come video YouTube incorporati, calendari o altri componenti speciali.
+
+**Usala quando:**
+- Vuoi modificare una pagina che **contiene già un video** (es. *Calendario Turni*, *Usare Audacity*)
+- Vuoi **aggiungere un video** YouTube in una pagina nuova o esistente
+
+**Come inserire un video in questa collezione:**
+1. Apri il documento dalla collezione *Documentazione (con componenti)*
+2. Posiziona il cursore nel punto del testo dove vuoi il video
+3. Clicca il pulsante **"+"** nella barra dell'editor → seleziona **"Inserisci Video"**
+4. Incolla l'URL del video YouTube e conferma
+
+:::tip Regola pratica
+Se la pagina contiene solo testo → usa **Documentazione**.
+Se contiene (o dovrà contenere) un video → usa **Documentazione (con componenti)**.
+:::
+
+:::caution Attenzione ai nomi file
+Quando crei un nuovo documento, usa **trattini al posto degli spazi** nel nome del file (es. `guida-microfono` invece di `guida microfono`). Spazi e apostrofi causano un errore nell'editor.
+:::
+
 ## Cosa NON fare
 
 - ❌ Non modificare la struttura delle cartelle direttamente — usa sempre l'editor
