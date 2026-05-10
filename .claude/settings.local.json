@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:tina.io)",
+      "WebSearch"
+    ]
+  }
+}

@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className='button button--secondary button--lg'
-            to='/docs/Calendario%20Turni'
+            to='/docs/calendario-turni'
           >
             Vai al Calendari dei turni
           </Link>

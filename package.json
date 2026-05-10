@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
+    "start": "tinacms dev -c \"docusaurus start\"",
+    "build": "tinacms build && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -19,11 +19,13 @@
     "@docusaurus/preset-classic": "^3.1.0",
     "@lottiefiles/react-lottie-player": "^3.5.3",
     "@mdx-js/react": "^3.0.0",
+    "@tinacms/cli": "^2.2.6",
     "clsx": "^1.2.1",
     "prism-react-renderer": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-player": "^2.12.0"
+    "react-player": "^2.12.0",
+    "tinacms": "^3.7.6"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.1.0"
@@ -41,7 +43,7 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=20.0"
   },
   "overrides": {
     "@cmfcmf/docusaurus-search-local": {

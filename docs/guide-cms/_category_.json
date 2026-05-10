@@ -1,0 +1,10 @@
+{
+  "label": "Guida al CMS",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "Come usare l'editor online per aggiungere e modificare la documentazione, senza bisogno di conoscenze tecniche."
+  }
+}

@@ -1,0 +1,14 @@
+fragment DocsParts on Docs {
+  __typename
+  title
+  sidebar_position
+  description
+  body
+}
+
+fragment Docs_mdxParts on Docs_mdx {
+  __typename
+  title
+  sidebar_position
+  body
+}

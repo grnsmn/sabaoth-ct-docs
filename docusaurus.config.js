@@ -120,6 +120,12 @@ const config = {
             position: "right",
             label: "Utilità",
           },
+          {
+            type: "docSidebar",
+            sidebarId: "GuidaCMS",
+            position: "right",
+            label: "Guida CMS",
+          },
           // {
           //   href: 'https://github.com/grnsmn/sabaoth-ct-docs/',
           //   label: 'GitHub',
@@ -135,7 +141,7 @@ const config = {
             items: [
               {
                 label: "Calendario Turni",
-                to: "/docs/Calendario%20Turni",
+                to: "/docs/calendario-turni",
               },
               {
                 label: "Utilità",
