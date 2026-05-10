@@ -4,3 +4,14 @@
 
 [build.environment]
   NODE_VERSION = "20"
+
+# Redirect legacy URLs after file renames (301 = permanent, SEO-safe)
+[[redirects]]
+  from = "/docs/Calendario Turni"
+  to = "/docs/calendario-turni"
+  status = 301
+
+[[redirects]]
+  from = "/docs/Calendario%20Turni"
+  to = "/docs/calendario-turni"
+  status = 301
