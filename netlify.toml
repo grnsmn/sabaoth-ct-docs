@@ -1,0 +1,6 @@
+[build]
+  command = "tinacms build && docusaurus build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "20"
