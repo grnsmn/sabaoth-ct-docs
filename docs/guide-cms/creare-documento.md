@@ -35,7 +35,7 @@ Team Media/Come usare il microfono
 Il sistema creerà automaticamente il file con il nome corretto.
 
 :::tip Nomi file
-Usa nomi descrittivi senza simboli speciali. Spazi e lettere italiane (accentate) sono supportati.
+Usa nomi descrittivi con **trattini al posto degli spazi**, senza apostrofi o caratteri speciali. Esempio: `come-usare-il-microfono` invece di `Come usare il microfono`. Il titolo leggibile va nel campo **"Titolo"**.
 :::
 
 ## 4. Compila i campi
@@ -45,7 +45,7 @@ Dopo aver creato il file, compila i campi:
 - **Titolo** — il nome della pagina così come appare nella sidebar
 - **Posizione nella sidebar** — un numero che determina l'ordine (es. `1` per primo, `2` per secondo, ecc.)
 - **Descrizione** — una breve descrizione opzionale della pagina
-- **Contenuto** — il testo della pagina (vedi [come modificare un documento](./Modificare%20un%20documento) per i dettagli sulla barra degli strumenti)
+- **Contenuto** — il testo della pagina (vedi [come modificare un documento](./modificare-documento) per i dettagli sulla barra degli strumenti)
 
 ## 5. Salva
 

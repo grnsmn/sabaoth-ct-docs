@@ -141,7 +141,7 @@ const config = {
             items: [
               {
                 label: "Calendario Turni",
-                to: "/docs/Calendario%20Turni",
+                to: "/docs/calendario-turni",
               },
               {
                 label: "Utilità",
